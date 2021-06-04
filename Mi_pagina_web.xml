@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ 	<title>Mi página web</title>
+ 	<link href="https://mariobasan92.github.io/"></link>
+ 	<updated>2021-05-31T17:00:00Z</updated>
+ 	<author>
+ 		<name>Mario Barajas Sánchez</name>
+        <email>a20basama@iesgrancapitan.org</email>
+ 	</author>
+ 	<id>https://mariobasan92.github.io/</id>
+    <rights>Creative Commons</rights>
+    <subtitle>En esta página hablo de quién soy yo, Mario Barajas Sánchez, y por qué estoy interesado en estudiar el grado de ASIR.</subtitle>
+
+ 	<entry>
+ 		<title>¿Quién soy?</title>
+ 		<link href="https://mariobasan92.github.io/#soy"></link>
+        <author>
+            <name>Mario Barajas Sánchez</name>
+            <email>a20basama@iesgrancapitan.org</email>
+        </author>
+        <id>https://mariobasan92.github.io/#soy</id>
+        <updated>2021-05-31T17:30:00Z</updated>
+        <summary>Soy un jóven de 19 años, desde pequeño he estado en contacto con los ordenadores, sentía curiosidad de como una máquina era capaz de hacer tantas cosas, desarrollando tantas tareas.
+        Realicé el Bachillerato tecnológico y tras comenzar la carrera de informática, no veía claro como plasmar de forma práctica lo que estudiaba, por lo que decidí dejar la carrera y hacer el grado que me habían comentado que era mucho más práctico y menos teórico. Me he dado cuenta que cada vez más me gusta diseñar páginas web, trabajar con bases de datos y me gustaría en un futuro dedicarme a ello.
+        Soy un gran apasionado del deporte y siempre me ha encantado prácticarlo, desde fútbol o baloncesto a atletismo o voleibol.</summary>
+ 	</entry>
+    <entry>
+        <title>¿Por qué estoy estudiando este grado?</title>
+        <link href="https://mariobasan92.github.io/#grado"></link>
+        <author>
+            <name>Mario Barajas Sánchez</name>
+            <email>a20basama@iesgrancapitan.org</email>
+        </author>
+        <id>https://mariobasan92.github.io/#grado</id>
+        <updated>2021-05-31T17:40:00Z</updated>
+        <summary>Siempre me han gustado los ordenadores y todo lo relacionado con la tecnología, así que tenía claro que quería estudiar algo relacionado con ello. Mi primera opción era nuestro grado vecino, DAW, y aunque no conseguí entrar en él sí conseguí entrar en el que ahora estoy cursando, ASIR, lo que no quita que con el transcurso de los días me haya encantado estudiar este grado. No me arrepiento de haber cursado este ciclo ya que aunque a priori había cosas que no me llamaban la atención como ISO, he acabado entendiéndolas y de cierta manera, interesándome por ellas, es por eso que estoy estudiando este grado y seguiré adelante con él el año que viene.</summary>
+    </entry>
+</feed>
